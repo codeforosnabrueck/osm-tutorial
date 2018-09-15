@@ -1,0 +1,6 @@
+geopandas
+folium
+requests
+altair
+numpy
+pandas

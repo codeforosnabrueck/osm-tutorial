@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/codeforosnabrueck/osm-tutorial/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/codeforosnabrueck/osm-tutorial/master?urlpath=lab)
 
 # Mapping and OpenStreetMaps in Python
 In this tutorial, you will learn to create maps in Python and populate them with data 
